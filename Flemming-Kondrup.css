@@ -28,6 +28,16 @@
   padding: 0;
 }
 
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-layout-wrap-1 {
   width: 857px;
   margin: 21px auto 0;
@@ -69,7 +79,7 @@
   margin: 0 auto;
 }
 
-.u-section-1 .u-btn-2 {
+.u-section-1 .u-btn-4 {
   background-image: none;
   padding: 0;
 }
@@ -116,8 +126,8 @@
   margin: 20px -17px 0 10px;
 }
 
-.u-section-1 .u-btn-3 {
-  background-image: none;
+.u-section-1 .u-btn-5 {
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
   padding: 0;
 }
 
@@ -143,12 +153,12 @@
   margin: 6px 594px 0 22px;
 }
 
-.u-section-1 .u-btn-4 {
+.u-section-1 .u-btn-6 {
   background-image: none;
   padding: 0;
 }
 
-.u-section-1 .u-btn-5 {
+.u-section-1 .u-btn-7 {
   background-image: none;
   padding: 0;
 }
