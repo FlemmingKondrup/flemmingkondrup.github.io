@@ -22,9 +22,4 @@ My two main research goals are:
 - Applying __AI__ to support __healthcare__ workers and patients in their decision making to __promote safety__, __robustness__ in __uncertain contexts__, and efficiency in __data-constrained environments__.
 
 
-I am a recipient of the:
-- **[Fonds de Recherche du Québec – Santé (FRQS) Scholarship](https://frq.gouv.qc.ca/en/health/)**
-- **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
-- **[McGill Quantitative Life Science Stipend Award](https://www.mcgill.ca/qls/program-info)**
-
 In 2022, I was captain of McGill's team in __[Project X](https://www.uoft.ai/projectx)__, an AI research competition organized by the University of Toronto with competitors from top academic institutions across North America. Our __[work](https://doi.org/10.1609/aaai.v37i13.26862)__ on Deep Conservative Reinforcement Learning for Mechanical Ventilation received the highest score out of all 25 papers submitted, winning the competition with a $25,000 award.
