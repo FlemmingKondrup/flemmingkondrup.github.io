@@ -21,6 +21,7 @@ My two main research goals are:
 - Improving how intelligent __agents__ learn and __make decisions__ in __complex environments__, especially when those environments involve __many possible actions__ and __sparse rewards__.
 - Applying __AI__ to support __healthcare__ workers and patients in their decision making to __promote safety__, __robustness__ in __uncertain contexts__, and efficiency in __data-constrained environments__.
 
+
 I am a recipient of the:
 - **[Fonds de Recherche du Québec – Santé (FRQS) Scholarship](https://frq.gouv.qc.ca/en/health/)**
 - **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
