@@ -1,4 +1,4 @@
-Hi! I am a PhD Student at McGill University and Mila with __[Doina Precup](https://mila.quebec/en/person/doina-precup/)__ and Lars Grant at __[Mila](https://mila.quebec/en/)__ and __[McGill University](https://www.mcgill.ca/)__.
+Hi! I am a PhD Student at __[Mila](https://mila.quebec/en/)__ and __[McGill University](https://www.mcgill.ca/)__ supervised by __[Doina Precup](https://mila.quebec/en/person/doina-precup/)__ and Lars Grant.
 
 My two main research goals are:
 - Improving how intelligent __agents__ learn and __make decisions__ in __complex environments__, especially when those environments involve __many possible actions__ and __sparse rewards__.
