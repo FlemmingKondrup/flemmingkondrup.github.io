@@ -8,14 +8,14 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD Student at __[Mila](https://mila.quebec/en/)__ and __[McGill University](https://www.mcgill.ca/)__ supervised by __[Doina Precup](https://mila.quebec/en/person/doina-precup/)__ and Lars Grant.
+Hi!
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
