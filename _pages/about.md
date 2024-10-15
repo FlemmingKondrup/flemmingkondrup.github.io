@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="font-size: 1.5em; font-style: italic;">Artificial Intelligence Researcher</span>
+subtitle: ***Artificial Intelligence Researcher***
 
 
 profile:
