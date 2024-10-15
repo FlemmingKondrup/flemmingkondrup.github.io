@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ***Artificial Intelligence Researcher***
+subtitle: Artificial Intelligence Researcher
 
 
 profile:
