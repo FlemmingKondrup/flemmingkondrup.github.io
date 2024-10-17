@@ -33,21 +33,42 @@ I am a recipient of the:
 **Enhancing how agents acquire knowledge and make decisions in challenging environments:**
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/prof_pic.jpg" alt="Generative Approach Logo" style="width: 80px; margin-right: 20px;" />
+    <img src="../assets/img/prof_pic.jpg" alt="Logo" style="width: 80px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>A Generative approach to Affordances for Reinforcement Learning</strong>  
         <p style="margin: 0;">Aim: Leveraging VLMs to improve RL sample efficiency and performance</p>
-        <p style="margin: 0;">Prospective Publication</p>
+        <p style="margin: 0;"></em>Prospective Publication</em></p>
     </div>
 </div>
 
-
-<u>A Generative approach to Affordances for Reinforcement Learning</u> 
-
-Aim: Leveraging VLMs to improve RL sample efficiency and performance  
-*Prospective Publication*
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/prof_pic.jpg" alt="Logo" style="width: 80px; margin-right: 20px;" />
+    <div style="display: flex; flex-direction: column;">
+        <strong>Forecaster: Temporally Abstract Tree-Search Planning from Pixels</strong>  
+        <p style="margin: 0;">Aim: Hierarchical RL with abstract world models for tree-search planning</p>
+        <p style="margin: 0;"></em>Paper</em></p>
+    </div>
+</div>
 
 AI for Healthcare:
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/prof_pic.jpg" alt="Logo" style="width: 80px; margin-right: 20px;" />
+    <div style="display: flex; flex-direction: column;">
+        <strong>Transferrable Model-Based RL for Personalized Insulin Therapy</strong>  
+        <p style="margin: 0;">Aim: Combine LSTM Forecasting & RL for individualized treatment</p>
+        <p style="margin: 0;"></em>Prospective Publication</em></p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/prof_pic.jpg" alt="Logo" style="width: 80px; margin-right: 20px;" />
+    <div style="display: flex; flex-direction: column;">
+        <strong>Safe Mechanical Ventilation Using Deep Conservative Q-Learning</strong>  
+        <p style="margin: 0;">Aim: DeepVent, an offline RL agent for optimizing ventilator settings</p>
+        <p style="margin: 0;"></em>Paper</em></p>
+    </div>
+</div>
 
 <span style="font-size: 1.5em;">Service and Leadership</span>
 
