@@ -32,7 +32,15 @@ I am a recipient of the:
 
 **Enhancing how agents acquire knowledge and make decisions in challenging environments:**
 
-![A Generative approach to Affordances for Reinforcement Learning](../assets/img/prof_pic.jpg)
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/prof_pic.jpg" alt="Generative Approach Logo" style="width: 80px; margin-right: 20px;" />
+    <div>
+        <strong>A Generative approach to Affordances for Reinforcement Learning</strong>  
+        Aim: Leveraging VLMs to improve RL sample efficiency and performance  
+        Prospective Publication
+    </div>
+</div>
+
 
 <u>A Generative approach to Affordances for Reinforcement Learning</u> 
 
