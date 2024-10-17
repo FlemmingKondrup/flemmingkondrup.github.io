@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)**. I previously completed a BSc at **[McGill University](https://www.mcgill.ca/)**, for which I received the **[First-Class Honours distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)** and the **[Dean’s Multidisciplinary Undergraduate Research List Distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)**, during which I completed 5 research internships working with **[Doina Precup](https://mila.quebec/en/person/doina-precup/)**, **[David Juncker](https://juncker.lab.mcgill.ca/david-juncker)**, **[Gabriel Venne](https://www.mcgill.ca/ihse/about-us/who-we-are/associate-members/gabriel-venne)** and **[Peter Metrakos](https://rimuhc.ca/fr/-/peter-metrakos-md)**.
 
-My two main research goals are:
+__My two main research goals are:__
 - __Improving how intelligent agents learn and make decisions in complex environments, especially when those environments involve many possible actions and sparse rewards__.
 - __Applying AI to support healthcare workers and patients in their decision making to promote safety, robustness in uncertain contexts, and efficiency in data-constrained environments__.
 
@@ -32,7 +32,7 @@ I am a recipient of the:
 
 Enhancing how agents acquire knowledge and make decisions in challenging environments:
 
-![A Generative approach to Affordances for Reinforcement Learning](img/prof_pic.png)
+![A Generative approach to Affordances for Reinforcement Learning](assets/img/prof_pic.png)
 
 **A Generative approach to Affordances for Reinforcement Learning**  
 **Aim:** Leveraging VLMs to improve RL sample efficiency and performance  
