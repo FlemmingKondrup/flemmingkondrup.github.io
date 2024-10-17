@@ -33,7 +33,7 @@ I am a recipient of the:
 **Enhancing how agents acquire knowledge and make decisions in challenging environments:**
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/prof_pic.jpg" alt="Logo" style="width: 80px; margin-right: 20px;" />
+    <img src="../assets/img/llm.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>A Generative approach to Affordances for Reinforcement Learning</strong>  
         <p style="margin: 0;">Aim: Leveraging VLMs to improve RL sample efficiency and performance</p>
@@ -42,18 +42,18 @@ I am a recipient of the:
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/prof_pic.jpg" alt="Logo" style="width: 80px; margin-right: 20px;" />
+    <img src="../assets/img/forecaster.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Forecaster: Temporally Abstract Tree-Search Planning from Pixels</strong>  
         <p style="margin: 0;">Aim: Hierarchical RL with abstract world models for tree-search planning</p>
-        <p style="margin: 0;"></em>Paper</em></p>
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2310.09997" target="_blank">Paper</a></p>
     </div>
 </div>
 
-AI for Healthcare:
+**AI for Healthcare:**
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/prof_pic.jpg" alt="Logo" style="width: 80px; margin-right: 20px;" />
+    <img src="../assets/img/drug.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Transferrable Model-Based RL for Personalized Insulin Therapy</strong>  
         <p style="margin: 0;">Aim: Combine LSTM Forecasting & RL for individualized treatment</p>
@@ -62,11 +62,11 @@ AI for Healthcare:
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/prof_pic.jpg" alt="Logo" style="width: 80px; margin-right: 20px;" />
+    <img src="../assets/img/deepvent.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Safe Mechanical Ventilation Using Deep Conservative Q-Learning</strong>  
         <p style="margin: 0;">Aim: DeepVent, an offline RL agent for optimizing ventilator settings</p>
-        <p style="margin: 0;"></em>Paper</em></p>
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2210.02552" target="_blank">Paper</a></p>
     </div>
 </div>
 
