@@ -30,13 +30,13 @@ I am a recipient of the:
 
 <span style="font-size: 1.5em;">Research</span>
 
-Enhancing how agents acquire knowledge and make decisions in challenging environments:
+**Enhancing how agents acquire knowledge and make decisions in challenging environments:**
 
-![A Generative approach to Affordances for Reinforcement Learning](assets/img/prof_pic.png)
+![A Generative approach to Affordances for Reinforcement Learning](../assets/img/prof_pic.png)
 
-**A Generative approach to Affordances for Reinforcement Learning**  
-**Aim:** Leveraging VLMs to improve RL sample efficiency and performance  
-**Prospective Submission**
+<u>A Generative approach to Affordances for Reinforcement Learning</u> 
+Aim: Leveraging VLMs to improve RL sample efficiency and performance  
+*Prospective Publication*
 
 AI for Healthcare:
 
