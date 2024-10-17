@@ -24,7 +24,7 @@ __My two main research goals are:__
 - __Applying AI to support healthcare workers and patients in their decision making to promote safety, robustness in uncertain contexts, and efficiency in data-constrained environments__.
 
 I am a recipient of the:
-- **[Fonds de Recherche du Québec – Santé (FRQS) Scholarship](https://frq.gouv.qc.ca/en/health/)**
+- **[Fonds de Recherche du Québec (FRQ) Scholarship](https://frq.gouv.qc.ca/en/health/)**
 - **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
 - **[McGill Quantitative Life Science Stipend Award](https://www.mcgill.ca/qls/program-info)**
 
