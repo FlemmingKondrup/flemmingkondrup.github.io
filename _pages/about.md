@@ -28,6 +28,18 @@ I am a recipient of the:
 - **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
 - **[McGill Quantitative Life Science Stipend Award](https://www.mcgill.ca/qls/program-info)**
 
+<span style="font-size: 1.5em;">Research</span>
+
+Enhancing how agents acquire knowledge and make decisions in challenging environments:
+
+![A Generative approach to Affordances for Reinforcement Learning](img/prof_pic.png)
+
+**A Generative approach to Affordances for Reinforcement Learning**  
+**Aim:** Leveraging VLMs to improve RL sample efficiency and performance  
+**Prospective Submission**
+
+AI for Healthcare:
+
 <span style="font-size: 1.5em;">Service and Leadership</span>
 
 In 2022, I was captain of McGill's team in **[Project X](https://www.uoft.ai/projectx)**, an AI research competition organized by the University of Toronto with competitors from top academic institutions across North America. Our work on **[Deep Conservative Reinforcement Learning for Mechanical Ventilation](https://doi.org/10.1609/aaai.v37i13.26862)** received the highest score out of all 25 papers submitted, winning the competition with a $25,000 award, and leading to press interviews with **[The Tribune](https://www.thetribune.ca/sci-tech/six-mcgill-undergrads-win-uoft-international-artificial-intelligence-competition-03152022/)** and **[The McGill Reporter](https://reporter.mcgill.ca/undergrad-team-uses-machine-learning-to-create-a-better-hospital-ventilator/)**.
