@@ -33,7 +33,7 @@ I am a recipient of the:
 **Improving agent decision-making in complex environments:**
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/llm.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
+    <img src="../assets/img/llm.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>A Generative approach to Affordances for Reinforcement Learning</strong>  
         <p style="margin: 0;">Leveraging VLMs to improve decision making in high-dimensional action spaces</p>
@@ -42,7 +42,7 @@ I am a recipient of the:
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/forecaster.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
+    <img src="../assets/img/forecaster.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Forecaster: Temporally Abstract Tree-Search Planning from Pixels</strong>  
         <p style="margin: 0;">Hierarchical RL with abstract world models for tree-search planning</p>
@@ -55,7 +55,7 @@ I am a recipient of the:
 **AI for Healthcare:**
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/drug.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
+    <img src="../assets/img/drug.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Transferrable Model-Based RL for Personalized Insulin Therapy</strong>  
         <p style="margin: 0;">Combine LSTM Forecasting & RL for individualized treatment</p>
@@ -64,7 +64,7 @@ I am a recipient of the:
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/deepvent.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
+    <img src="../assets/img/deepvent.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Safe Mechanical Ventilation Using Deep Conservative Q-Learning</strong>  
         <p style="margin: 0;">DeepVent, an offline AI agent for safely optimizing ventilator settings</p>
