@@ -28,7 +28,7 @@ I am a recipient of the:
 - **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
 - **[McGill Quantitative Life Science Stipend Award](https://www.mcgill.ca/qls/program-info)**
 
-<span style="font-size: 1.5em;">Research</span>
+<span style="font-size: 1.5em;">Selected Research</span>
 
 **Improving agent decision-making in complex environments:**
 
