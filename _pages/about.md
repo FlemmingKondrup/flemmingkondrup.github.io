@@ -35,6 +35,7 @@ I am a recipient of the:
 ![A Generative approach to Affordances for Reinforcement Learning](../assets/img/prof_pic.jpg)
 
 <u>A Generative approach to Affordances for Reinforcement Learning</u> 
+
 Aim: Leveraging VLMs to improve RL sample efficiency and performance  
 *Prospective Publication*
 
