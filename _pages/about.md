@@ -30,13 +30,13 @@ I am a recipient of the:
 
 <span style="font-size: 1.5em;">Research</span>
 
-**Enhancing how agents acquire knowledge and make decisions in challenging environments:**
+**Improving agent decision-making in complex environments:**
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/llm.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>A Generative approach to Affordances for Reinforcement Learning</strong>  
-        <p style="margin: 0;">Leveraging VLMs to improve RL sample efficiency and performance</p>
+        <p style="margin: 0;">Leveraging VLMs to improve decision making in high-dimensional action spaces</p>
         <p style="margin: 0;"><em>Prospective Publication</em></p>
     </div>
 </div>
@@ -67,10 +67,12 @@ I am a recipient of the:
     <img src="../assets/img/deepvent.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Safe Mechanical Ventilation Using Deep Conservative Q-Learning</strong>  
-        <p style="margin: 0;">DeepVent, an offline RL agent for optimizing ventilator settings</p>
+        <p style="margin: 0;">DeepVent, an offline AI agent for safely optimizing ventilator settings</p>
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2210.02552" target="_blank">Paper</a></p>
     </div>
 </div>
+
+<br> <!-- This will create an extra line break -->
 
 <span style="font-size: 1.5em;">Service and Leadership</span>
 
