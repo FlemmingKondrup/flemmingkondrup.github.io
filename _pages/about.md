@@ -36,8 +36,8 @@ I am a recipient of the:
     <img src="../assets/img/llm.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>A Generative approach to Affordances for Reinforcement Learning</strong>  
-        <p style="margin: 0;">Aim: Leveraging VLMs to improve RL sample efficiency and performance</p>
-        <p style="margin: 0;"></em>Prospective Publication</em></p>
+        <p style="margin: 0;">Leveraging VLMs to improve RL sample efficiency and performance</p>
+        <p style="margin: 0;"><em>Prospective Publication</em></p>
     </div>
 </div>
 
@@ -45,10 +45,12 @@ I am a recipient of the:
     <img src="../assets/img/forecaster.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Forecaster: Temporally Abstract Tree-Search Planning from Pixels</strong>  
-        <p style="margin: 0;">Aim: Hierarchical RL with abstract world models for tree-search planning</p>
+        <p style="margin: 0;">Hierarchical RL with abstract world models for tree-search planning</p>
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2310.09997" target="_blank">Paper</a></p>
     </div>
 </div>
+
+<br> <!-- This will create an extra line break -->
 
 **AI for Healthcare:**
 
@@ -56,8 +58,8 @@ I am a recipient of the:
     <img src="../assets/img/drug.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Transferrable Model-Based RL for Personalized Insulin Therapy</strong>  
-        <p style="margin: 0;">Aim: Combine LSTM Forecasting & RL for individualized treatment</p>
-        <p style="margin: 0;"></em>Prospective Publication</em></p>
+        <p style="margin: 0;">Combine LSTM Forecasting & RL for individualized treatment</p>
+        <p style="margin: 0;"><em>Prospective Publication</em></p>
     </div>
 </div>
 
@@ -65,7 +67,7 @@ I am a recipient of the:
     <img src="../assets/img/deepvent.png" alt="Logo" style="width: 60px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Safe Mechanical Ventilation Using Deep Conservative Q-Learning</strong>  
-        <p style="margin: 0;">Aim: DeepVent, an offline RL agent for optimizing ventilator settings</p>
+        <p style="margin: 0;">DeepVent, an offline RL agent for optimizing ventilator settings</p>
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2210.02552" target="_blank">Paper</a></p>
     </div>
 </div>
