@@ -4,7 +4,7 @@ title: Publications
 dropdown: true
 children: 
     - title: Google Scholar
-      permalink: https://scholar.google.ca/citations?user=ifQsJnIAAAAJ&hl=en&oi=sra
+      permalink: https://scholar.google.ca/citations?hl=en&user=LpP_aowAAAAJ
 nav: true
 nav_order: 2
 ---
