@@ -1,4 +1,4 @@
----
+
 layout: page
 title: Publications
 dropdown: true
@@ -7,7 +7,6 @@ children:
       permalink: https://scholar.google.ca/citations?hl=en&user=LpP_aowAAAAJ
 nav: true
 nav_order: 2
----
 <!-- 
 ---
 layout: page
