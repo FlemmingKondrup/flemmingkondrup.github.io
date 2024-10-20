@@ -5,5 +5,5 @@ nav: true
 nav_order: 0
 ---
 
-<a href="https://flemmingkondrup.github.io/assets/pdf/cv.pdf" class="btn">View CV</a>
+<a href="../assets/pdf/cv.pdf" class="btn">View CV</a>
 
