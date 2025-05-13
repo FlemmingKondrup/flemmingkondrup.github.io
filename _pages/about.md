@@ -31,18 +31,18 @@ I am a recipient of the:
 - **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
 - **[McGill Quantitative Life Science Stipend Award](https://www.mcgill.ca/qls/program-info)**
 
-<span style="font-size: 1.5em;">Selected Internships</span>
-
-**Industry applications of ML and agentic systems:**
+<span style="font-size: 1.5em;">Work Experience:</span>
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/servicenow.png" alt="ServiceNow Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Machine Learning Intern – ServiceNow, Montreal, Canada</strong>  
         <p style="margin: 0;">Developing a safety-aware autonomous web agent using RLHF to balance task success and adversarial robustness</p>
-        <p style="margin: 0;"><em>June 2025 – Present | Mentor: Gabriel Huang</em></p>
+        <p style="margin: 0;"><em> Summer 2025 | Mentor: Gabriel Huang</em></p>
     </div>
 </div>
+
+<br>
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/dialogue.png" alt="Dialogue Logo" style="width: 50px; margin-right: 20px;" />
