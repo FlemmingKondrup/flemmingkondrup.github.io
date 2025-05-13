@@ -19,16 +19,41 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)**. I previously completed a BSc at **[McGill University](https://www.mcgill.ca/)**, for which I received the **[First-Class Honours distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)** and the **[Dean’s Multidisciplinary Undergraduate Research List Distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)**, during which I completed 5 research internships working with **[Doina Precup](https://mila.quebec/en/person/doina-precup/)**, **[David Juncker](https://juncker.lab.mcgill.ca/david-juncker)**, **[Gabriel Venne](https://www.mcgill.ca/ihse/about-us/who-we-are/associate-members/gabriel-venne)** and **[Peter Metrakos](https://rimuhc.ca/fr/-/peter-metrakos-md)**.
 
-__My main research interests are:__
-- __Improving how intelligent agents learn and make decisions in complex environments, especially when those environments involve many possible actions and sparse rewards__.
-- __Leverage LLMs & VLMs to enhance capability and reasoning of agents in complex textual/ visual environments, 
-with a focus on explainability, OOD robustness and affordance discovery__.
-- __Applying AI to support healthcare workers and patients in their decision making to promote safety, robustness in uncertain contexts, and efficiency in data-constrained environments__.
+**My main research interests are:**
+* **Enhancing the safety, reasoning, and sample efficiency of autonomous agents in complex environments by integrating LLMs and VLMs, with a focus on robust decision-making and generalization in web-based settings.**
+* **Developing agentic systems for healthcare that prioritize safety, robustness under uncertainty, and efficient learning in data-constrained environments, with a focus on reliable decision-making and real-world applicability.**
+
 
 I am a recipient of the:
-- **[Fonds de Recherche du Québec (FRQ) Scholarship](https://frq.gouv.qc.ca/en/health/)**
+- **[Fonds de Recherche du Québec (FRQ) Scholarship - Doctoral](https://frq.gouv.qc.ca/en/health/)**
+- **[Fonds de Recherche du Québec (FRQ) Scholarship - Masters](https://frq.gouv.qc.ca/en/health/)**
+- **[Mitacs Accelerate Scholarship](https://www.mitacs.ca/our-programs/accelerate/)**
 - **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
 - **[McGill Quantitative Life Science Stipend Award](https://www.mcgill.ca/qls/program-info)**
+
+<span style="font-size: 1.5em;">Selected Internships</span>
+
+**Industry applications of ML and agentic systems:**
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/servicenow.png" alt="ServiceNow Logo" style="width: 50px; margin-right: 20px;" />
+    <div style="display: flex; flex-direction: column;">
+        <strong>Machine Learning Intern – ServiceNow, Montreal, Canada</strong>  
+        <p style="margin: 0;">Developing a safety-aware autonomous web agent using RLHF to balance task success and adversarial robustness</p>
+        <p style="margin: 0;"><em>June 2025 – Present | Mentor: Gabriel Huang</em></p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/dialogue.png" alt="Dialogue Logo" style="width: 50px; margin-right: 20px;" />
+    <div style="display: flex; flex-direction: column;">
+        <strong>Machine Learning Intern – Dialogue, Montreal, Canada</strong>  
+        <p style="margin: 0;">	Led the successful deployment of Generative Vision-Language Models (VLMs) in production to automate patient photo verification for telemedicine, boosting classification accuracy by 17% and streamlining the intake process, and developed a novel LLM-powered symptom intake system to reduce patient input time and improve triage. </p>
+        <p style="margin: 0;"><em>Jan – Apr 2025 | Mentor: Alexis Smirnov</em></p>
+    </div>
+</div>
+
+<br>
 
 <span style="font-size: 1.5em;">Selected Research</span>
 
@@ -37,9 +62,9 @@ I am a recipient of the:
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/llm.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
-        <strong>A Generative approach to Affordances for Reinforcement Learning</strong>  
-        <p style="margin: 0;">Leveraging VLMs to improve decision making in high-dimensional action spaces</p>
-        <p style="margin: 0;"><em>Prospective Publication</em></p>
+        <strong>Cracking the Code of Action: A Generative Approach to Affordances for Reinforcement Learning</strong>  
+        <p style="margin: 0;">Leveraging VLMs to guide RL agents and improve decision making in high-dimensional action spaces</p>
+        <p style="margin: 0;"><a href="https://www.arxiv.org/pdf/2504.17282" target="_blank">Paper</a></p>
     </div>
 </div>
 
