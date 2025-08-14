@@ -37,7 +37,7 @@ I am a recipient of the:
     <img src="../assets/img/servicenow.png" alt="ServiceNow Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Machine Learning Intern – ServiceNow, Montreal, Canada</strong>  
-        <p style="margin: 0;">Developing LLM-based agents for computer use and web navigation, focusing on: (1) scalable methods for adapting to human workflows and preferences; (2) safety through detection pipelines for hidden backdoors, combining reasoning-trace and activation-level anomaly analysis, and examining misalignment and collusion in multi-agent systems.</p>
+        <p style="margin: 0;">Developing LLM-based agents for computer use and web navigation, focusing on: (1) methods for adapting to human workflows and preferences; (2) safety through detection pipelines for hidden backdoors, combining reasoning-trace and activation-level anomaly analysis, and examining misalignment and collusion in multi-agent systems.</p>
         <p style="margin: 0;"><em> Summer 2025 | Mentor: Gabriel Huang</em></p>
     </div>
 </div>
