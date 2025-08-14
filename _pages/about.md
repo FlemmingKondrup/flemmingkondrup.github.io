@@ -20,8 +20,8 @@ social: true # includes social icons at the bottom of the page
 Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)**. I previously completed a BSc at **[McGill University](https://www.mcgill.ca/)**, for which I received the **[First-Class Honours distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)** and the **[Dean’s Multidisciplinary Undergraduate Research List Distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)**, during which I completed 5 research internships working with **[Doina Precup](https://mila.quebec/en/person/doina-precup/)**, **[David Juncker](https://juncker.lab.mcgill.ca/david-juncker)**, **[Gabriel Venne](https://www.mcgill.ca/ihse/about-us/who-we-are/associate-members/gabriel-venne)** and **[Peter Metrakos](https://rimuhc.ca/fr/-/peter-metrakos-md)**.
 
 **My main research interests are:**
-* **Enhancing the safety, reasoning, and sample efficiency of autonomous agents in complex environments by integrating LLMs and VLMs, with a focus on robust decision-making and generalization in web-based settings.**
-* **Developing agentic systems for healthcare that prioritize safety, robustness under uncertainty, and efficient learning in data-constrained environments, with a focus on reliable decision-making and real-world applicability.**
+* **Scalable adaptation of LLM-based Agents to human workflows and preferences for computer use and web navigation via Reinforcement Learning.**
+* **Evaluation of Misalignment Risks as we scale autonomous Agents, focusing on detecting hidden backdoors and collusion in multi-agent systems.**
 
 
 I am a recipient of the:
@@ -37,7 +37,7 @@ I am a recipient of the:
     <img src="../assets/img/servicenow.png" alt="ServiceNow Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Machine Learning Intern – ServiceNow, Montreal, Canada</strong>  
-        <p style="margin: 0;">Developing a safety-aware autonomous web agent using RLHF to balance task success and adversarial robustness</p>
+        <p style="margin: 0;">Developing LLM-based agents for computer use and web navigation, focusing on: (1) scalable methods for adapting to human workflows and preferences; (2) safety through detection pipelines for hidden backdoors, combining reasoning-trace and activation-level anomaly analysis, and examining misalignment and collusion in multi-agent systems.</p>
         <p style="margin: 0;"><em> Summer 2025 | Mentor: Gabriel Huang</em></p>
     </div>
 </div>
