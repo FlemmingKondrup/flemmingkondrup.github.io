@@ -60,7 +60,7 @@ I am a recipient of the:
     <div style="display: flex; flex-direction: column;">
         <strong>Research Intern - Royal Victoria Hospital, Montreal, Canada</strong>  
         <p style="margin: 0;">	Leveraged immune cell computational analyses to uncover immunotherapy targets in hepatocellular carcinoma and cholangiocarcinoma, elucidating tumor environment dynamics and innovation in liver cancer treatment strategies.  </p>
-        <p style="margin: 0;"><em>Jan – Apr 2025 | Mentor: Peter Metrakos</em></p>
+        <p style="margin: 0;"><em> Sept 2020 – August 2021 | Mentor: Peter Metrakos</em></p>
     </div>
 </div>
 
