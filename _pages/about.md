@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)**. I previously completed a BSc at **[McGill University](https://www.mcgill.ca/)**, for which I received the **[First-Class Honours distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)** and the **[Dean’s Multidisciplinary Undergraduate Research List Distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)**, during which I completed 5 research internships working with **[Doina Precup](https://mila.quebec/en/person/doina-precup/)**, **[David Juncker](https://juncker.lab.mcgill.ca/david-juncker)**, **[Gabriel Venne](https://www.mcgill.ca/ihse/about-us/who-we-are/associate-members/gabriel-venne)** and **[Peter Metrakos](https://rimuhc.ca/fr/-/peter-metrakos-md)**.
 
-**My main research interests are:**
-* **Scalable adaptation of LLM-based Agents to human workflows and preferences for computer use and web navigation via Reinforcement Learning.**
-* **Evaluation of Misalignment Risks as we scale autonomous Agents, focusing on detecting hidden backdoors and collusion in multi-agent systems.**
+**My research interests center on developing Responsible and Safe AI Agents, with two primary aims:**
+* **Teaching Agents to adapt smoothly to human workflows, preferences, and web navigation.**
+* **Evaluating the risks in scaling autonomous Agents, with emphasis on identifying misalignment and hidden vulnerabilities.**
 
 
 I am a recipient of the:
