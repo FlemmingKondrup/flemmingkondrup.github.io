@@ -55,6 +55,17 @@ I am a recipient of the:
 
 <br>
 
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/RVH.png" alt="Dialogue Logo" style="width: 50px; margin-right: 20px;" />
+    <div style="display: flex; flex-direction: column;">
+        <strong>Research Intern - Royal Victoria Hospital, Montreal, Canada</strong>  
+        <p style="margin: 0;">	Leveraged immune cell computational analyses to uncover immunotherapy targets in hepatocellular carcinoma and cholangiocarcinoma, elucidating tumor environment dynamics and innovation in liver cancer treatment strategies.  </p>
+        <p style="margin: 0;"><em>Jan – Apr 2025 | Mentor: Peter Metrakos</em></p>
+    </div>
+</div>
+
+<br>
+
 <span style="font-size: 1.5em;">Selected Research</span>
 
 **Improving agent decision-making in complex environments:**
