@@ -21,13 +21,6 @@ Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill Univ
 * **Teaching Agents to adapt smoothly to human workflows, preferences, and web navigation via Reinforcement Learning.**
 * **Evaluating the risks in scaling autonomous Agents, with emphasis on identifying misalignment and hidden vulnerabilities.**
 
-I am a recipient of the:
-- **[Fonds de Recherche du Québec (FRQ) Scholarship - Doctoral](https://frq.gouv.qc.ca/en/health/)**
-- **[Fonds de Recherche du Québec (FRQ) Scholarship - Masters](https://frq.gouv.qc.ca/en/health/)**
-- **[Mitacs Accelerate Scholarship](https://www.mitacs.ca/our-programs/accelerate/)**
-- **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
-- **[McGill Quantitative Life Science Stipend Award](https://www.mcgill.ca/qls/program-info)**
-
 <span style="font-size: 1.5em;">Work Experience:</span>
 
 <div style="display: flex; align-items: center;">
@@ -71,6 +64,15 @@ I am a recipient of the:
 </div>
 
 <br>
+
+<span style="font-size: 1.5em;">Awards:</span>
+
+I am a recipient of the:
+- **[Fonds de Recherche du Québec (FRQ) Scholarship - Doctoral](https://frq.gouv.qc.ca/en/health/)**
+- **[Fonds de Recherche du Québec (FRQ) Scholarship - Masters](https://frq.gouv.qc.ca/en/health/)**
+- **[Mitacs Accelerate Scholarship](https://www.mitacs.ca/our-programs/accelerate/)**
+- **[Schull-Yang International Experience Award](https://www.mcgill.ca/iea/article/flemming-kondrup-bsc-anatomy-and-cell-biology-miea-ambassador-2021)**
+- **[McGill Quantitative Life Science Stipend Award](https://www.mcgill.ca/qls/program-info)**
 
 <span style="font-size: 1.5em;">Selected Research</span>
 
