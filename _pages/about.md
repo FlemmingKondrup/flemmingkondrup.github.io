@@ -39,7 +39,7 @@ Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill Univ
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/servicenow.png" alt="ServiceNow Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
-        <strong>Machine Learning Intern – ServiceNow, Montreal, Canada</strong>  
+        <strong>Visiting Researcher – ServiceNow Research, Montreal, Canada</strong>  
         <p style="margin: 0;">LLM-based agents for computer use and web navigation, with a focus on (1) adapting to human workflows and preferences, and (2) red-teaming their safety and security, with a focus on misalignment, prompt injections and backdoors.</p>
         <p style="margin: 0;"><em> July - October 2025 | Mentor: Gabriel Huang</em></p>
     </div>
