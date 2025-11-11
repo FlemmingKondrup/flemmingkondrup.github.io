@@ -40,7 +40,7 @@ Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill Univ
     <img src="../assets/img/servicenow.png" alt="ServiceNow Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Machine Learning Intern – ServiceNow, Montreal, Canada</strong>  
-        <p style="margin: 0;">Developing LLM-based agents for computer use and web navigation, focusing on: (1) methods for adapting to human workflows and preferences; (2) safety through detection pipelines for hidden backdoors, combining reasoning-trace and activation-level anomaly analysis, and examining misalignment and collusion in multi-agent systems.</p>
+        <p style="margin: 0;">LLM-based agents for computer use and web navigation, with a focus on (1) adapting to human workflows and preferences, and (2) red-teaming their safety and security, with a focus on misalignment, prompt injections and backdoors.</p>
         <p style="margin: 0;"><em> July - October 2025 | Mentor: Gabriel Huang</em></p>
     </div>
 </div>
@@ -51,7 +51,7 @@ Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill Univ
     <img src="../assets/img/dialogue.png" alt="Dialogue Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Machine Learning Intern – Dialogue, Montreal, Canada</strong>  
-        <p style="margin: 0;">	Led the successful deployment of Generative Vision-Language Models (VLMs) in production to automate patient photo verification for telemedicine, boosting classification accuracy by 17% and streamlining the intake process, and developed a novel LLM-powered symptom intake system to reduce patient input time and improve triage. </p>
+        <p style="margin: 0;">	Led the successful deployment of Generative Vision-Language Models (VLMs) in production to automate patient photo verification for telemedicine, boosting classification accuracy by 17% and streamlining the intake process, and developed a novel LLM-powered symptom intake system to improve triage efficiency. </p>
         <p style="margin: 0;"><em>Jan – April 2025 | Mentor: Alexis Smirnov</em></p>
     </div>
 </div>
