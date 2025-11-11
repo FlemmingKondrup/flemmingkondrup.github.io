@@ -29,7 +29,7 @@ Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill Univ
     <img src="../assets/img/Google_logo.png" alt="Google Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Student Researcher – Google, Seattle, USA</strong>  
-        <p style="margin: 0;">Reinforcement Learning for LLM finetuning on Agentic Tasks</p>
+        <p style="margin: 0;">Reinforcement Learning for LLM finetuning on Agentic Tasks.</p>
         <p style="margin: 0;"><em> Fall 2025 | Mentor: Aldi Fahrezi & Galen Ballew</em></p>
     </div>
 </div>
