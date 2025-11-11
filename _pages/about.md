@@ -17,7 +17,9 @@ social: true # includes social icons at the bottom of the page
 ---
 <span style="font-size: 1.5em;">Artificial Intelligence Researcher</span>
 
-Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)**. **My research interests center on developing *Safe AI Agents*, with two primary aims:**
+Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)**. 
+
+**My research interests center on developing *Safe AI Agents*, with two primary aims:**
 * **Teaching Agents to adapt smoothly to human workflows, preferences, and web navigation via Reinforcement Learning.**
 * **Evaluating the risks in scaling autonomous Agents, with emphasis on identifying misalignment and hidden vulnerabilities.**
 
