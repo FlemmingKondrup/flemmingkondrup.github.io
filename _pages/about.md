@@ -17,12 +17,9 @@ social: true # includes social icons at the bottom of the page
 ---
 <span style="font-size: 1.5em;">Artificial Intelligence Researcher</span>
 
-Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)**. I previously completed a BSc at **[McGill University](https://www.mcgill.ca/)**, for which I received the **[First-Class Honours distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)** and the **[Dean’s Multidisciplinary Undergraduate Research List Distinction](https://www.mcgill.ca/study/2024-2025/university_regulations_and_resources/undergraduate/gi_graduation_honours)**, during which I completed 5 research internships working with **[Doina Precup](https://mila.quebec/en/person/doina-precup/)**, **[David Juncker](https://juncker.lab.mcgill.ca/david-juncker)**, **[Gabriel Venne](https://www.mcgill.ca/ihse/about-us/who-we-are/associate-members/gabriel-venne)** and **[Peter Metrakos](https://rimuhc.ca/fr/-/peter-metrakos-md)**.
-
-**My research interests center on developing *Safe AI Agents*, with two primary aims:**
+Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)**. **My research interests center on developing *Safe AI Agents*, with two primary aims:**
 * **Teaching Agents to adapt smoothly to human workflows, preferences, and web navigation via Reinforcement Learning.**
 * **Evaluating the risks in scaling autonomous Agents, with emphasis on identifying misalignment and hidden vulnerabilities.**
-
 
 I am a recipient of the:
 - **[Fonds de Recherche du Québec (FRQ) Scholarship - Doctoral](https://frq.gouv.qc.ca/en/health/)**
@@ -34,11 +31,20 @@ I am a recipient of the:
 <span style="font-size: 1.5em;">Work Experience:</span>
 
 <div style="display: flex; align-items: center;">
+    <img src="../assets/img/Google_logo.png" alt="Google Logo" style="width: 50px; margin-right: 20px;" />
+    <div style="display: flex; flex-direction: column;">
+        <strong>Student Researcher – Google, Seattle, USA</strong>  
+        <p style="margin: 0;">Reinforcement Learning for LLM finetuning on Agentic Tasks</p>
+        <p style="margin: 0;"><em> November 2025 - current | Mentor: Aldi Fahrezi & Galen Ballew</em></p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
     <img src="../assets/img/servicenow.png" alt="ServiceNow Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Machine Learning Intern – ServiceNow, Montreal, Canada</strong>  
         <p style="margin: 0;">Developing LLM-based agents for computer use and web navigation, focusing on: (1) methods for adapting to human workflows and preferences; (2) safety through detection pipelines for hidden backdoors, combining reasoning-trace and activation-level anomaly analysis, and examining misalignment and collusion in multi-agent systems.</p>
-        <p style="margin: 0;"><em> Summer 2025 | Mentor: Gabriel Huang</em></p>
+        <p style="margin: 0;"><em> July- October 2025 | Mentor: Gabriel Huang</em></p>
     </div>
 </div>
 
@@ -49,7 +55,7 @@ I am a recipient of the:
     <div style="display: flex; flex-direction: column;">
         <strong>Machine Learning Intern – Dialogue, Montreal, Canada</strong>  
         <p style="margin: 0;">	Led the successful deployment of Generative Vision-Language Models (VLMs) in production to automate patient photo verification for telemedicine, boosting classification accuracy by 17% and streamlining the intake process, and developed a novel LLM-powered symptom intake system to reduce patient input time and improve triage. </p>
-        <p style="margin: 0;"><em>Jan – Apr 2025 | Mentor: Alexis Smirnov</em></p>
+        <p style="margin: 0;"><em>Jan – April 2025 | Mentor: Alexis Smirnov</em></p>
     </div>
 </div>
 
