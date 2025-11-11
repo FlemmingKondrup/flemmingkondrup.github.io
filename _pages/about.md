@@ -28,16 +28,18 @@ Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill Univ
     <div style="display: flex; flex-direction: column;">
         <strong>Student Researcher – Google, Seattle, USA</strong>  
         <p style="margin: 0;">Reinforcement Learning for LLM finetuning on Agentic Tasks</p>
-        <p style="margin: 0;"><em> November 2025 - current | Mentor: Aldi Fahrezi & Galen Ballew</em></p>
+        <p style="margin: 0;"><em> Fall 2025 | Mentor: Aldi Fahrezi & Galen Ballew</em></p>
     </div>
 </div>
+
+<br>
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/servicenow.png" alt="ServiceNow Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
         <strong>Machine Learning Intern – ServiceNow, Montreal, Canada</strong>  
         <p style="margin: 0;">Developing LLM-based agents for computer use and web navigation, focusing on: (1) methods for adapting to human workflows and preferences; (2) safety through detection pipelines for hidden backdoors, combining reasoning-trace and activation-level anomaly analysis, and examining misalignment and collusion in multi-agent systems.</p>
-        <p style="margin: 0;"><em> July- October 2025 | Mentor: Gabriel Huang</em></p>
+        <p style="margin: 0;"><em> July - October 2025 | Mentor: Gabriel Huang</em></p>
     </div>
 </div>
 
