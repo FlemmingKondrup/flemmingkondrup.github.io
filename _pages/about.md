@@ -69,7 +69,7 @@ Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill Univ
 
 <br>
 
-<span style="font-size: 1.5em;">Awards:</span>
+<span style="font-size: 1.5em;">Awards</span>
 
 I am a recipient of the:
 - **[Fonds de Recherche du Québec (FRQ) Scholarship - Doctoral](https://frq.gouv.qc.ca/en/health/)**
