@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 <span style="font-size: 1.5em;">Artificial Intelligence Researcher</span>
 
-Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)**. 
+Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)**. 
 
 **My research interests center on:**
 * **Studying AI safety methods to prevent loss of control and misalignment, including stress-testing Chain-of-Thought (CoT) monitoring, agentic self-awareness, and red-teaming.**
