@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am a PhD Student at **[Mila](https://mila.quebec/en/)** and **[McGill University](https://www.mcgill.ca/)** supervised by **[Doina Precup](https://mila.quebec/en/person/doina-precup/)** and advised by **[Joelle Pineau](https://ai.meta.com/people/1914216782353556/joelle-pineau/)** and **[Lars Grant](https://www.ladydavis.ca/en/researcher/lars-grant/)**. 
 
-**My research interests center on developing *Safe AI Agents*, with two primary aims:**
-* **Teaching Agents to adapt smoothly to human workflows, preferences, and web navigation via Reinforcement Learning.**
-* **Evaluating the risks in scaling autonomous Agents, with emphasis on identifying misalignment and hidden vulnerabilities.**
+**My research interests center on:**
+* **Post-training for LLM agents and reinforcement learning with applications in UI control, code and healthcare.**
+* **Studying AI safety methods to prevent loss of control and misalignment, including stress-testing Chain-of-Thought (CoT) monitoring, agentic self-awareness, and red-teaming.**
 
 <span style="font-size: 1.5em;">Work Experience:</span>
 
@@ -80,7 +80,18 @@ I am a recipient of the:
 
 <span style="font-size: 1.5em;">Selected Research</span>
 
-**Improving agent decision-making in complex environments:**
+**AI Safety for LLM Agents:**
+
+<div style="display: flex; align-items: center;">
+    <img src="../assets/img/llm.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
+    <div style="display: flex; flex-direction: column;">
+        <strong>Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback</strong>  
+        <p style="margin: 0;">Studies whether LLM agents can detect Chain-of-Thought monitoring from blocked-feedback signals, highlighting risks for scalable oversight and AI safety</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2603.16928" target="_blank">Paper</a></p>
+    </div>
+</div>
+
+**LLM and RL Agents:**
 
 <div style="display: flex; align-items: center;">
     <img src="../assets/img/llm.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
@@ -105,11 +116,11 @@ I am a recipient of the:
 **AI for Healthcare:**
 
 <div style="display: flex; align-items: center;">
-    <img src="../assets/img/drug.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
+    <img src="../assets/img/llm.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
     <div style="display: flex; flex-direction: column;">
-        <strong>Transferrable Model-Based RL for Personalized Insulin Therapy</strong>  
-        <p style="margin: 0;">Combine LSTM Forecasting & RL for individualized treatment</p>
-        <p style="margin: 0;"><em>Prospective Publication</em></p>
+        <strong>Bootstrapping Personalized Insulin Therapy via Model-Based Reinforcement Learning: An In Silico Study</strong>  
+        <p style="margin: 0;">Uses model-based reinforcement learning to personalize insulin therapy, improving adaptive decision-making for diabetes care in simulation</p>
+        <p style="margin: 0;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/41160" target="_blank">Paper</a></p>
     </div>
 </div>
 
