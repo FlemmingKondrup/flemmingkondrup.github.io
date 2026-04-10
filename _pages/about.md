@@ -80,57 +80,71 @@ I am a recipient of the:
 
 <span style="font-size: 1.5em;">Selected Research</span>
 
-**AI Safety for LLM Agents:**
+<!-- -----------SELECTED RESEARCH----------- -->
+<h2>Selected Research</h2>
 
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/llm.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
-    <div style="display: flex; flex-direction: column;">
-        <strong>Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback</strong>  
-        <p style="margin: 0;">Studies whether LLM agents can detect Chain-of-Thought monitoring from blocked-feedback signals, highlighting risks for scalable oversight and AI safety</p>
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2603.16928" target="_blank">Paper</a></p>
-    </div>
+<div style="margin-bottom: 10px;">
+  <a href="https://arxiv.org/abs/2603.16928" target="_blank" style="color: blue; font-weight: 600;">
+    Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback
+  </a>
+  <div style="margin-left: 15px; font-size: 0.95em;">
+    T. Jiralerspong*, <u>F. Kondrup</u>*, Y. Bengio
+    <span style="float: right;">AIWILD Workshop at ICLR 2026</span>
+  </div>
 </div>
 
-**LLM and RL Agents:**
-
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/llm.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
-    <div style="display: flex; flex-direction: column;">
-        <strong>Cracking the Code of Action: A Generative Approach to Affordances for Reinforcement Learning</strong>  
-        <p style="margin: 0;">Leveraging VLMs to guide RL agents and improve decision making in high-dimensional action spaces</p>
-        <p style="margin: 0;"><a href="https://www.arxiv.org/pdf/2504.17282" target="_blank">Paper</a></p>
-    </div>
+<div style="margin-bottom: 10px;">
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/41160" target="_blank" style="color: blue; font-weight: 600;">
+    Bootstrapping Personalized Insulin Therapy via Model-Based Reinforcement Learning: An In Silico Study
+  </a>
+  <div style="margin-left: 15px; font-size: 0.95em;">
+    S. Basu, <u>F. Kondrup</u>, A. Romero-Soriano, D. Precup
+    <span style="float: right;">AAAI 2026</span>
+  </div>
 </div>
 
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/forecaster.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
-    <div style="display: flex; flex-direction: column;">
-        <strong>Forecaster: Temporally Abstract Tree-Search Planning from Pixels</strong>  
-        <p style="margin: 0;">Hierarchical RL with abstract world models for tree-search planning</p>
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2310.09997" target="_blank">Paper</a></p>
-    </div>
+<div style="margin-bottom: 10px;">
+  <a href="https://arxiv.org/abs/2504.17282" target="_blank" style="color: blue; font-weight: 600;">
+    Cracking the Code of Action: A Generative Approach to Affordances for Reinforcement Learning
+  </a>
+  <div style="margin-left: 15px; font-size: 0.95em;">
+    L. Cherif*, <u>F. Kondrup</u>*, D. Venuto, A. Anand, K. Khetarpal, D. Precup
+    <span style="float: right;">DLC Workshop at NeurIPS 2025</span>
+  </div>
 </div>
 
-<br> <!-- This will create an extra line break -->
-
-**AI for Healthcare:**
-
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/llm.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
-    <div style="display: flex; flex-direction: column;">
-        <strong>Bootstrapping Personalized Insulin Therapy via Model-Based Reinforcement Learning: An In Silico Study</strong>  
-        <p style="margin: 0;">Uses model-based reinforcement learning to personalize insulin therapy, improving adaptive decision-making for diabetes care in simulation</p>
-        <p style="margin: 0;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/41160" target="_blank">Paper</a></p>
-    </div>
+<div style="margin-bottom: 10px;">
+  <a href="https://arxiv.org/abs/2210.02552" target="_blank" style="color: blue; font-weight: 600;">
+    Towards Safe Mechanical Ventilation Treatment Using Deep Offline RL
+  </a>
+  <div style="margin-left: 15px; font-size: 0.95em;">
+    <u>F. Kondrup</u>*, T. Jiralerspong*, E. Lau*, N. de Lara, J. Shkrob, M.D. Tran, D. Precup, S. Basu
+    <span style="float: right;">AAAI 2023</span>
+  </div>
 </div>
 
-<div style="display: flex; align-items: center;">
-    <img src="../assets/img/deepvent.png" alt="Logo" style="width: 50px; margin-right: 20px;" />
-    <div style="display: flex; flex-direction: column;">
-        <strong>Safe Mechanical Ventilation Using Deep Conservative Q-Learning</strong>  
-        <p style="margin: 0;">DeepVent, an offline AI agent for safely optimizing ventilator settings</p>
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2210.02552" target="_blank">Paper</a></p>
-    </div>
+<div style="margin-bottom: 10px;">
+  <a href="https://arxiv.org/abs/2310.09997" target="_blank" style="color: blue; font-weight: 600;">
+    Forecaster: Towards Temporally Abstract Tree-Search Planning from Pixels
+  </a>
+  <div style="margin-left: 15px; font-size: 0.95em;">
+    T. Jiralerspong*, <u>F. Kondrup</u>*, D. Precup, K. Khetarpal
+    <span style="float: right;">GenPlan Workshop at NeurIPS 2023</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 10px;">
+  <a href="https://arxiv.org/abs/2210.02552" target="_blank" style="color: blue; font-weight: 600;">
+    Deep Conservative Reinforcement Learning for Personalization of Mechanical Ventilation Treatment
+  </a>
+  <div style="margin-left: 15px; font-size: 0.95em;">
+    <u>F. Kondrup</u>*, T. Jiralerspong*, E. Lau*, N. de Lara, J. Shkrob, M.D. Tran, D. Precup, S. Basu
+    <span style="float: right;">RLDM 2022</span>
+  </div>
+</div>
+
+<div style="font-size: 0.9em; margin-top: 10px;">
+  * equal contribution
 </div>
 
 <br> <!-- This will create an extra line break -->
