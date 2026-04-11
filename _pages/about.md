@@ -81,7 +81,6 @@ I am a recipient of the:
 <span style="font-size: 1.5em;">Selected Research</span>
 
 <!-- -----------SELECTED RESEARCH----------- -->
-<h2>Selected Research</h2>
 
 <div style="margin-bottom: 10px;">
   <a href="https://arxiv.org/abs/2603.16928" target="_blank" style="color: blue; font-weight: 600;">
